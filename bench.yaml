@@ -1,0 +1,27 @@
+source:
+  url: https://github.com/dpks2003/cordic-romless
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: Apache-2.0
+  upstream_default_branch: ws2-x8
+tapeouts:
+- org: wafer.space
+  run: ws-run2
+  slot: DPK2
+  project: cordic-romless-x8
+  size: 0p5x0p5
+  kind: digital
+  commit: b1fa2b41a1e1
+  commit_source: design_ref head recorded by the ws-run1/2 audit
+  tag: wafer.space/ws-run2/DPK2
+  branch: tapeout/wafer.space/ws-run2/DPK2
+  page: https://wafer.space/ws-run2/
+generated: '2026-10-17T23:30:38Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/wafer.space/ws-run2/DPK2
+- upstream/main
+- upstream/ws2-x8
