@@ -12,12 +12,12 @@ tapeouts:
   project: cordic-romless-x8
   size: 0p5x0p5
   kind: digital
-  commit: b1fa2b41a1e1
+  commit: 9ffcc28c191d
   commit_source: design_ref head recorded by the ws-run1/2 audit
   tag: wafer.space/ws-run2/DPK2
   branch: tapeout/wafer.space/ws-run2/DPK2
   page: https://wafer.space/ws-run2/
-generated: '2026-10-17T23:30:38Z'
+generated: '2026-10-24T08:07:42Z'
 tooling: https://github.com/wafer-space/wafer.space-bench
 index: https://wafer-space-bench.github.io
 branches:

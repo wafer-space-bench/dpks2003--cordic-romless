@@ -12,7 +12,7 @@ Part of the [wafer.space GF180 benchmark](https://wafer-space-bench.github.io): 
 
 | Org | Run | Slot | Project | Size | Commit | Tag / branch |
 |---|---|---|---|---|---|---|
-| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | DPK2 | cordic-romless-x8 | 0p5x0p5 | `b1fa2b41a1e1` | [`wafer.space/ws-run2/DPK2`](https://github.com/wafer-space-bench/dpks2003--cordic-romless/tree/tapeout/wafer.space/ws-run2/DPK2) |
+| wafer.space | [ws-run2](https://wafer.space/ws-run2/) | DPK2 | cordic-romless-x8 | 0p5x0p5 | `9ffcc28c191d` | [`wafer.space/ws-run2/DPK2`](https://github.com/wafer-space-bench/dpks2003--cordic-romless/tree/tapeout/wafer.space/ws-run2/DPK2) |
 
 ## Branches
 
